@@ -3,7 +3,7 @@
 Persisting, and validating blocks using Node.js, LevelDB
 
 
-This is a Private Blockchain. In this project I created the classes to manage my private blockchain, to be able to persist my blochchain I used LevelDB.
+This is a Private Blockchain. In this project I created the classes to manage my private blockchain, to be able to persist my blockchain I used LevelDB.
 
 ## Setup project for Review.
 
